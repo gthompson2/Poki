@@ -1,0 +1,1 @@
+﻿-- Query for Poki project 
